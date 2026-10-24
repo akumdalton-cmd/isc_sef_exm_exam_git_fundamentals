@@ -1,0 +1,3 @@
+# MY isc_sef_exm_exam_git_fundamentals
+##Description
+This document explains how my isc_sef_exm_exam_git_fundamentals on the 24/10/2026 went. I started at 11:15 am and ended at 12:30  pm. The document has three sections. Each section for a particular set of question requesting for a unique type of answer. The mark distribution per question depends on what section the question falls under. all questions do not have the same mark allocation.
