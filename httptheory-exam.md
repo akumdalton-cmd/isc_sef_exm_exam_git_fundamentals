@@ -17,7 +17,7 @@
 
 \##Section B · Short Answer (5 questions × 6 points = 30 points)
 
-11\. 
+11\.
 
 A) **Working Directory:** this is the local file on your PC. it is where most editing is done and were git is initialized (git init). Gid add sends the files to the staging area.
 
@@ -25,7 +25,7 @@ B) **Staging Area:** An imaginary area which Permit users to make commit's. you 
 
 C) **Local Repo:** A local repo receives all commits from the staging area. keeps files which are ready to be come remote.git push makes the file remote
 
-D**) Remote:** the file is now on the web. you can easily share the file copy, make changes and pull the file to make changes. git pull will send the file back to your working directory.
+D\*\*) Remote:\*\* the file is now on the web. you can easily share the file copy, make changes and pull the file to make changes. git pull will send the file back to your working directory.
 
 
 
@@ -36,11 +36,11 @@ In my "isc\_sef\_exm\_exam\_git\_fundamentals folder" i have many documents whic
 
 
 13\. A branch is a deviation from the main or it is a subset of the main
-I will create a branch instead of the main so i can retest the branch and review it properly. only when it works well will i add to the main 
+I will create a branch instead of the main so i can retest the branch and review it properly. only when it works well will i add to the main
 
 
 
-14\. 
+14\.
 
 
 
@@ -58,5 +58,6 @@ I will create a branch instead of the main so i can retest the branch and review
 
 19\. git rebase
 
-20\. i will 
+20\. i will pull the file to my working directory update and communicate with my partner about the update then push
+or i will request for my partner to review my work before merging 
 
